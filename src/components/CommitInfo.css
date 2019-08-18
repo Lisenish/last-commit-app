@@ -1,0 +1,23 @@
+.CommitInfo {
+    text-align: left;
+    border-radius: 3px;
+    border: 1px solid lightgray;
+}
+
+.CommitInfo__link {
+    display: block;
+    padding: 10px;
+
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    background: #eaf5ff;
+}
+
+.CommitInfo__author {
+    padding: 10px;
+
+    background: white;
+    color: gray;
+    font-size: 12px;
+}
